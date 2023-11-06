@@ -1,0 +1,86 @@
+{
+    "banner_main": [
+        {
+            "id": 123,
+            "banner_img_url": "https://i.ibb.co/LCnrwb0/banner1.png"
+        },
+        {
+            "id": 321,
+            "banner_img_url": "https://i.ibb.co/6ZYYXvd/banner2.png"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Brazilian",
+            "img_url": "https://i.ibb.co/BjDLyWy/brasileira.png"
+        },
+        {
+            "id": 2,
+            "name": "Packed lunch",
+            "img_url": "https://i.ibb.co/8rS5n8L/marmita.png"
+        },
+        {
+            "id": 3,
+            "name": "Snacks",
+            "img_url": "https://i.ibb.co/xDNLNfy/lanches.png"
+        },
+        {
+            "id": 4,
+            "name": "Lunch",
+            "img_url": "https://i.ibb.co/8rS5n8L/marmita.png"
+        }
+    ],
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "La Casona",
+            "note": "4.3",
+            "categorie": "restaurant",
+            "distance": "2Km",
+            "shipping_value": "3,00",
+            "delivery_time": "20 a 30 min",
+            "url_img": "https://i.ibb.co/FDBXKqs/la-casona.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Author's Cusine",
+            "note": "4.3",
+            "categorie": "Petiscaria",
+            "distance": "8Km",
+            "shipping_value": "1,00",
+            "delivery_time": "5 a 15 min",
+            "url_img": "https://i.ibb.co/SJBxVXn/logotipo-do-restaurant-retro-23-2148463922.jpg"
+        },
+        {
+            "id": 3,
+            "name": "The Dinner café",
+            "note": "4.3",
+            "categorie": "Café",
+            "distance": "2Km",
+            "shipping_value": "3,00",
+            "delivery_time": "20 a 30 min",
+            "url_img": "https://i.ibb.co/r5njprF/dinner.jpg"
+        },
+        {
+            "id": 4,
+            "name": "elRetiro",
+            "note": "4.3",
+            "categorie": "restaurant",
+            "distance": "12Km",
+            "shipping_value": "5,00",
+            "delivery_time": "10 a 30 min",
+            "url_img": "https://i.ibb.co/qmVkjB6/el-retiro.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Novo Sabor",
+            "note": "3.3",
+            "categorie": "restaurant",
+            "distance": "6Km",
+            "shipping_value": "2,00",
+            "delivery_time": "30 a 50 min",
+            "url_img": "https://i.ibb.co/qj3LvQ1/restaurant.jpg"
+        }
+    ]
+}
